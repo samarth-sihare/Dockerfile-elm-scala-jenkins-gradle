@@ -2,6 +2,7 @@
 
 ## Command to Build image
 `docker build -t <newImageName> <dockerFileDirectory>`
+
 `docker build -t myNewDockerImage .`
 
 ## Command to Run docker
