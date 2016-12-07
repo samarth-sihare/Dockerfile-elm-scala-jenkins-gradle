@@ -1,4 +1,5 @@
 # Dockerfile elm scala jenkins gradle
+This docker file can be used to create a docker image with Elm, Scala, Jenkins and gradle
 
 ## Command to Build image
 `docker build -t <newImageName> <dockerFileDirectory>`
